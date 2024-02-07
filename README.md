@@ -3,7 +3,11 @@ Hello, I'm Tara, and welcome to my GitHub page! I am currently a final year elec
 ### Current Projects
 
 ### Technical Skills
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,matlab,pytorch,tensorflow,django,html,css,js,aws,gcp,git,gitlab" />
+  </a>
+</p>
 ### Contact Me
 <p>
   <a href="https://www.linkedin.com/in/tararelan/" rel="nofollow noreferrer">

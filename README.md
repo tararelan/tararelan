@@ -9,7 +9,7 @@ Hello, I'm Tara, and welcome to my GitHub page! I am currently a final year elec
   <a href="https://www.linkedin.com/in/tararelan/" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a> &nbsp; 
-  <a href="tararelan@gmail.com" rel="nofollow noreferrer">
+  <a href="mailto: tararelan@gmail.com" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
   </a> &nbsp; 
 </p>

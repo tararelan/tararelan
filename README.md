@@ -1,11 +1,14 @@
 ## Tara Relan
 Hello, I'm Tara, and welcome to my GitHub page! I am currently a final year electronic engineering student at the Hong Kong University of Science and Technology (HKUST). I am interested in data science (especially in the field of biology) and creating computer vision models.
 ### Current Projects
+- ECE Final Year Project (MATLAB, Python)
+- ASL Video Interpreter (MATLAB)
 
 ### Technical Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=py,cpp,matlab,pytorch,tensorflow,django,html,css,js,aws,gcp,git,gitlab" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,matlab,pytorch,tensorflow,sklearn,opencv,django,html,css,js,aws,gcp,git,gitlab" />
 </p>
+
 ### Contact Me
 <p>
   <a href="https://www.linkedin.com/in/tararelan/" rel="nofollow noreferrer">

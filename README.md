@@ -6,10 +6,7 @@ Hello, I'm Tara, and welcome to my GitHub page! I am currently a final year elec
 
 ### Contact Me
 <p>
-  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  <a href="https://www.linkedin.com/in/tararelan/" rel="nofollow noreferrer">
+    <img src="[https://i.stack.imgur.com/gVE0j.png](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="linkedin">
   </a> &nbsp; 
-  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-  </a>
 </p>

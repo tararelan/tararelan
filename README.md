@@ -5,7 +5,7 @@ Hello, I'm Tara, and welcome to my GitHub page! I am currently a final year elec
 
 ### Technical Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=py,cpp,matlab,pytorch,tensorflow,sklearn,opencv,django,html,css,js,aws,gcp,git,gitlab" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,matlab,html,css,js,django,pytorch,tensorflow,sklearn,opencv,aws,gcp,git,gitlab" />
 </p>
 
 ### Contact Me

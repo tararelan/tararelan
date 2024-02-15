@@ -16,4 +16,7 @@ Hello, I'm Tara, and welcome to my GitHub page! I am currently a final year elec
   <a href="mailto: tararelan@gmail.com" rel="nofollow noreferrer" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
   </a>
+  <a href="tararelan.github.io" rel="nofollow noreferrer" target="_blank">
+    <img src="file:///C:/Users/tararelan/Downloads/githubpages.svg" alt="gmail">
+  </a>
 </p>

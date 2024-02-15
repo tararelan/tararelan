@@ -1,4 +1,4 @@
-## <p> <a href="https://tararelan.github.io/" rel="nofollow noreferrer" target="_blank">Tara Relan</a>
+## Tara Relan
 Hello, I'm Tara, and welcome to my GitHub page! I am currently a final year electronic engineering student at the Hong Kong University of Science and Technology (HKUST). I am interested in data science (especially in the field of biology) and creating computer vision models.
 ### Current Projects
 - ECE Final Year Project (MATLAB, Python)

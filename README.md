@@ -17,6 +17,6 @@ Hello, I'm Tara, and welcome to my GitHub page! I am currently a final year elec
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
   </a>
   <a href="tararelan.github.io" rel="nofollow noreferrer" target="_blank">
-    <img src="https://github.com/tararelan/tararelan/blob/main/githubpages.jpg" height="100px" alt="github pages">
+    <img src="https://github.com/tararelan/tararelan/blob/main/githubpages.jpg" height="50px" alt="github pages">
   </a>
 </p>

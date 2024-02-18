@@ -4,7 +4,7 @@ Hello, I'm Tara, and welcome to my GitHub page! I am a final year student majori
 - ECE Final Year Project (MATLAB, Python)
 
 ### Top Programming Languages
-[!(https://github-readme-stats.vercel.app/api/top-langs/?username=tararelan&layout=donut-vertical&bg_color=00000000)]
+[![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tararelan&layout=donut-vertical&bg_color=00000000)]
 
 ### Programming Tools
 <p>

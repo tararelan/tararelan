@@ -3,12 +3,13 @@ Hello, I'm Tara, and welcome to my GitHub page! I am a final year student majori
 ### Current Projects
 - ECE Final Year Project (MATLAB, Python)
 
-### Technical Skills
-<p>
-  <img src="https://skillicons.dev/icons?i=py,cpp,matlab,html,css,js,django,pytorch,tensorflow,sklearn,opencv,aws,gcp,git,gitlab" />
-</p>
+### Top Programming Languages
+[!(https://github-readme-stats.vercel.app/api/top-langs/?username=tararelan&layout=donut-vertical&bg_color=00000000)]
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=tararelan&layout=donut-vertical&bg_color=00000000)]
+### Programming Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=django,pytorch,tensorflow,sklearn,opencv,aws,gcp,git,gitlab" />
+</p>
 
 ### Contact Me
 <p>

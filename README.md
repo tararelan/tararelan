@@ -8,7 +8,7 @@ Hello, I'm Tara, and welcome to my GitHub page! I am a final year student majori
   <img src="https://skillicons.dev/icons?i=py,cpp,matlab,html,css,js,django,pytorch,tensorflow,sklearn,opencv,aws,gcp,git,gitlab" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tararelan&layout=donut-vertical)](https://github.com/tararelan/github-readme-stats&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tararelan&layout=compact&bg_color=00000000)](https://github.com/tararelan/github-readme-stats)
 
 ### Contact Me
 <p>

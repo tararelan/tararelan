@@ -1,5 +1,5 @@
 ## Tara Relan
-Hello, I'm Tara, and welcome to my GitHub page! I am a final year student majoring in electronic engineering with a minor in big data technology at the Hong Kong University of Science and Technology (HKUST). I am interested in data science and creating computer vision models.
+Hello, I'm Tara, and welcome to my GitHub page! I am a recent gradyate who studied electronic engineering with a minor in big data technology from HKUST. I am interested in recommender systems, data engineering, and medical imaging.
 
 ### Programming Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tararelan&layout=donut&bg_color=00000000&text_color=ffffff&title_color=ffffff&hide_title=true)

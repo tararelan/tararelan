@@ -16,7 +16,9 @@ Hello, I'm Tara, and welcome to my GitHub page! I am a recent graduate who studi
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
   </a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=tararelan)
+
 <!--   <a href="[https://tararelan.github.io](https://tararelan-github-io.vercel.app/)" rel="nofollow noreferrer" target="_blank">
   <img src="https://github.com/tararelan/tararelan/blob/main/githubpages.jpg" height="28px" alt="github pages">
 </a> -->
-![](https://komarev.com/ghpvc/?username=tararelan)

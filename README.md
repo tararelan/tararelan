@@ -18,7 +18,3 @@ Hello, I'm Tara, and welcome to my GitHub page! I am a student at the University
 </p>
 
 ![](https://komarev.com/ghpvc/?username=tararelan)
-
-<!--   <a href="[https://tararelan.github.io](https://tararelan-github-io.vercel.app/)" rel="nofollow noreferrer" target="_blank">
-  <img src="https://github.com/tararelan/tararelan/blob/main/githubpages.jpg" height="28px" alt="github pages">
-</a> -->
